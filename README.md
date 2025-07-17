@@ -1,6 +1,12 @@
 # ECE4078_Practicals_2025
 Repository for practicals of unit ECE4078 (Intelligent Robotics) offered in 2025.
 
+## Workshop, practicals, and help desks
+
+Workshop & Practical runs on Mondays, 10am-12pm, 14 Alliance, G29.
+
+Help desks runs after the workshops on Mondays, 12pm-2pm, 16 Alliance, Room 224. 
+
 # How to run this on your computer 
 
 The recommended way to run notebooks this year is installing Docker on your local computer, please refer to [Local Set Up](#local-set-up). After successful installation, please consult [Running the notebook](#running-the-notebook) on how to run the notebooks.
